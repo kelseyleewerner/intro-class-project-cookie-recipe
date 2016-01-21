@@ -1,6 +1,18 @@
-.my-class {
-  border: 2px dashed #00CED1;
-  padding: 4px;
-  background-color: #FAFAD2;
-  margin: 12px;
+img {
+width: 100px;
+height: 100px;
+}
+
+.column{
+width: 200px;
+float: left;
+margin: 10px;
+}
+
+p{
+  color: #0000ff
+}
+
+.column p {
+  color: #ff00ff
 }
